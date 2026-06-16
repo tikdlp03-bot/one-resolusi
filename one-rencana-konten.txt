@@ -1,5 +1,7 @@
 rencana konten one
 - Javascript
+    * ES6
+    * Framework Javascript
 - Php frameworks
 - Interview
 - Vlogs
